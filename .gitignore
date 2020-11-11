@@ -12,3 +12,6 @@ data_*/
 
 # Python-specific ignores
 __pycache__/
+
+# c/c++
+*.o
